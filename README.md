@@ -111,7 +111,6 @@ My focus area is the intersection of **Large Language Models + agentic systems +
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rpmahata&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-[![Rpmahata's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rpmahata&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rpmahata&style=flat-square&color=6B46C1&label=Profile+Views)
 
